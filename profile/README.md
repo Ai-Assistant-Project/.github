@@ -1,4 +1,4 @@
-# 🤖 AI Personal Assistant Project
+# 🤖 AI Assistant Project
 
 자연어로 소통하는 스마트 개인 비서 서비스
 
